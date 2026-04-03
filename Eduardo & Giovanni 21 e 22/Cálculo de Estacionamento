@@ -1,0 +1,10 @@
+/*
+Ler o tempo de permanência de um veículo em um estacionamento e calcular o valor a pagar, considerando:
+
+Até 2 horas → R$ 2,00 por hora
+
+Após 2 horas →
+
+As 2 primeiras continuam custando R$ 2,00 cada
+As horas adicionais custam R$ 1,00 por hora
+*/
