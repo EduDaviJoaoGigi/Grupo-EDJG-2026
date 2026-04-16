@@ -1,21 +1,25 @@
 /*
-*Ler um ano e verificar se ele é bissexto.
+* Instituição: EtecVAV - Vasco Antonio Vechiarutti
+*
+* Arquivo: bissexto.por
+* Data: 10/04/2026
+* Autor: Davi de Sousa e João monteiro
+* Descrição: Ler um ano e verificar se ele é bissexto.
+* 
 */
 
 programa {
-  real ano, bissexto
   funcao inicio() {
+    inteiro ano
 
-  escreva("Qual ano você deseja conferir se é ou não bissexto?\n\n")
-  leia(ano)
-  escreva("\n")
+    escreva("Digite um ano: ")
+    leia(ano)
 
-se ((ano % 4 == 0 e ano % 100 != 0) ou (ano % 400 == 0)) {
-   escreva("O ano ",ano," é bissexto")
-}
-senao {
-   escreva("O ano ",ano," não é bissexto")
-}
-
-}
+    se ((ano % 4 == 0 e ano % 100 != 0) ou (ano % 400 == 0)) {
+       escreva(ano, " é bissexto")
+    }
+    senao {
+       escreva(ano, " não é bissexto")
+    }
+  }
 }
