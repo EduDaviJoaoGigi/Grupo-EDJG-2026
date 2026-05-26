@@ -1,5 +1,12 @@
 # ETECVAV
 ETECVAV - Grupo A
 ---
-Arquivos de: Davi e João Monteiro; e Eduardo e Giovanni
-Interface e Web - Programação e Algoritmos
+
+## Integrantes do grupo
+- Davi de Sousa
+- Eduardo Koehler
+- Giovanni Rovesta
+- João Monteiro
+
+---
+#Interface e Web - Programação e Algoritmos
