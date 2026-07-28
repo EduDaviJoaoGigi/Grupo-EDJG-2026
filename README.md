@@ -3,11 +3,9 @@ ETECVAV - Grupo A
 ---
 
 ## Integrantes do grupo
-<table>
-- Davi de Sousa
-- Eduardo Koehler
-- Giovanni Rovesta
-- João Monteiro
-</table>
+- Davi de Sousa <br> 
+- Eduardo Koehler <br> 
+- Giovanni Rovesta <br> 
+- João Monteiro <br> 
 ---
 #Interface e Web - Programação e Algoritmos
