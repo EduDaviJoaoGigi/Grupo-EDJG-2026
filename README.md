@@ -7,7 +7,6 @@ ETECVAV - Grupo A
 #  Integrantes do Grupo
 
 | Integrante | 
-|:-----------|:------:|
 |  - Davi de Sousa  |
 |  - Eduardo Koehler  | 
 |  - Giovanni Rovesta  | 
