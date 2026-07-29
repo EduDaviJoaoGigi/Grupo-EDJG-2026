@@ -12,8 +12,10 @@
 |  - <a href="https://github.com/GiovanniRovesta">Giovanni Rovesta </a> | <br>
 |  - <a href="https://github.com/monteiro-christo-tech">João Victor Monteiro </a> | <br>
 
-</div>
+
 
 ---
 
 #Interface e Web - Programação e Algoritmos
+
+</div>
