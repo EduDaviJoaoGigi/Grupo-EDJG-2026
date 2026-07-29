@@ -7,7 +7,7 @@ ETECVAV - Grupo A
 #  Integrantes do Grupo
 
 |  - Davi de Sousa  | <br>
-|  - Eduardo Koehler  | <br>
+|  - Eduardo Koehler  | <p <a href="https://github.com/Koehler2011/Koehler2011"> </a> <br>
 |  - Giovanni Rovesta  | <br>
 |  - João Monteiro | <br>
 
