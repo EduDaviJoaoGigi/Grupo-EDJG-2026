@@ -13,9 +13,9 @@
 |  - <a href="https://github.com/monteiro-christo-tech">João Victor Monteiro </a> | <br>
 
 
-
 ---
 
-<h1> <b> Interface e Web & Programação e Algoritmos </b> <h1>
+
+ <b> ## Interface e Web & Programação e Algoritmos </b>
 
 </div>
