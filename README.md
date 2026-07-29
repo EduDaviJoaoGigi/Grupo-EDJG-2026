@@ -1,8 +1,8 @@
-<div aling="center"> 
+
   
   # ETECVAV - Grupo A
   
-</div>
+
 
 
 <div align="center">
