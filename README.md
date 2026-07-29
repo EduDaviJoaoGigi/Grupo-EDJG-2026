@@ -2,9 +2,6 @@
   <b> # ETECVAV - Grupo A</b> <br>
 
 </p>
-# ETECVAV
-ETECVAV - Grupo A
-
 
 <div align="center">
   
