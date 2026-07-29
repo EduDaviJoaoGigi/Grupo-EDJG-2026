@@ -1,8 +1,11 @@
-<div align="center">
+<p align="center">
+  <b> # ETECVAV - Grupo A</b> <br>
+
+</p>
 # ETECVAV
 ETECVAV - Grupo A
----
-</div>
+
+
 <div align="center">
   
 #  Integrantes do Grupo
