@@ -1,8 +1,9 @@
+<div align="center">
 # ETECVAV
 ETECVAV - Grupo A
 ---
 
-<div align="center">
+
   
 #  Integrantes do Grupo
 
