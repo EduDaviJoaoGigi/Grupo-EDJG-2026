@@ -1,5 +1,5 @@
 <p align="center">
-  <b> # ETECVAV - Grupo A</b> <br>
+  <b> <h1> # ETECVAV - Grupo A</b> </h1> <br>
 
 </p>
 
