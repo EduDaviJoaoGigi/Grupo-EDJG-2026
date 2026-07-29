@@ -1,7 +1,7 @@
-<p align="center">
-  <b> <h1> # ETECVAV - Grupo A</b> </h1> <br>
+<div aling="center">
+  <b> <h1> # ETECVAV - Grupo A</b> </h1>
+</div>
 
-</p>
 
 <div align="center">
   
