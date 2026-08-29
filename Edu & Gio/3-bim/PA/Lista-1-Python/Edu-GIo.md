@@ -36,3 +36,8 @@ else:
     print('Os números são iguais')
 ```
 
+Exercício 3
+---
+```python
+
+```
