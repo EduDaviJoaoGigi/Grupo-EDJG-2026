@@ -1,4 +1,4 @@
-Exercício 1
+Exercício 1 - Eduardo
 ---
 ```python
 """
@@ -16,7 +16,14 @@ else:
     print('O número é zero')
 ```
 
-Exercício 2
+Exercício 1 - Giovanni
+---
+```python
+
+```
+
+---
+Exercício 2 - Eduardo
 ---
 ```python
 """
@@ -36,7 +43,7 @@ else:
     print('Os números são iguais')
 ```
 
-Exercício 3
+Exercício 3 - Eduardo
 ---
 ```python
 """
@@ -57,7 +64,7 @@ else:
     print('Seu número é negativo, digite um positivo')
 ```
 
-Exercício 4
+Exercício 4 - Eduardo
 ---
 ```python
 """
