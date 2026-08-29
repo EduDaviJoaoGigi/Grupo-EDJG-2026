@@ -71,7 +71,6 @@ else:
     print('Seu número é negativo, digite um positivo')
 ```
 
----
 Exercício 3 - Giovanni
 ---
 ```python
