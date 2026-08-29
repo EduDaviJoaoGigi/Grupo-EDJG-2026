@@ -19,7 +19,7 @@ else:
 Exercício 1 - Giovanni
 ---
 ```python
-
+Coloque o código aqui Gio
 ```
 
 ---
@@ -43,6 +43,13 @@ else:
     print('Os números são iguais')
 ```
 
+Exercício 2 - Giovanni
+---
+```python
+Coloque o código aqui Gio
+```
+
+---
 Exercício 3 - Eduardo
 ---
 ```python
@@ -63,6 +70,15 @@ if n > 0:
 else:
     print('Seu número é negativo, digite um positivo')
 ```
+
+---
+Exercício 3 - Giovanni
+---
+```python
+Coloque o código aqui Gio
+```
+
+---
 
 Exercício 4 - Eduardo
 ---
