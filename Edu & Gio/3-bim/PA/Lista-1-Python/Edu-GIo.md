@@ -131,3 +131,9 @@ while contador <= 10:
     print(f'{n} x {contador} = {n * contador}')
     contador += 1
 ```
+
+Exercício 5 - Giovanni
+---
+```python
+Coloque o código aqui Gio
+```
