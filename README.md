@@ -15,7 +15,3 @@
 
 ---
 
-
- # <b> Interface e Web & Programação e Algoritmos </b>
-
-</div>
