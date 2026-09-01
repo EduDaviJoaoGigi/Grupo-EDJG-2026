@@ -180,15 +180,28 @@ else:
 Exercício 6 - Eduardo
 ---
 ```python
-contador = 1
+"""
+    Autor: Eduardo Koehler
+    Data: Agosto/2026
+    Descrição: Calcula a média de notas válidas entre 0 e 10 usando while.
+"""
 
-n = int(input('Digite um número de 1 a 10: '))
-if n > 1 and n < 10:
-    while contador <= 10:
-        print(f'{n} vezes {contador} = {n * contador}')
-        contador += 1
+nota = float(input('Digite uma nota entre 0 e 10: '))
+
+soma = 0
+quantidade = 0
+
+while nota >= 0 and nota <= 10:
+    soma += nota
+    quantidade += 1
+
+    nota = float(input('Digite outra nota entre 0 e 10: '))
+
+if quantidade > 0:
+    media = soma / quantidade
+    print(f'Média das notas válidas: {media:.2f}')
 else:
-    print('Número inválido')
+    print('Nenhuma nota válida foi digitada.')
 ```
 Exercício 6 - Giovanni
 ---
@@ -212,15 +225,34 @@ else:
 Exercício 7 - Eduardo
 ---
 ```python
-contador = 1
+"""
+    Autor: Eduardo Koehler
+    Data: Agosto/2026
+    Descrição: Lê 10 números e conta quantos são positivos, negativos e zeros.
+"""
 
-n = int(input('Digite um número de 1 a 10: '))
-if n > 1 and n < 10:
-    while contador <= 10:
-        print(f'{n} vezes {contador} = {n * contador}')
-        contador += 1
-else:
-    print('Número inválido')
+contador = 1
+positivos = 0
+negativos = 0
+zeros = 0
+
+print('Digite 10 números:')
+
+while contador <= 10:
+    numero = int(input(f'{contador}° número: '))
+
+    if numero > 0:
+        positivos += 1
+
+    elif numero < 0:
+        negativos += 1
+
+    else:
+        zeros += 1
+
+    contador += 1
+
+print(f'A quantidade de números positivos é {positivos}, negativos {negativos} e iguais a zero {zeros}.')
 ```
 Exercício 7 - Giovanni
 ---
@@ -246,15 +278,30 @@ print(f'Quantidade de zeros: {zeros}')
 Exercício 8 - Eduardo
 ---
 ```python
-contador = 1
+"""
+    Autor: Eduardo Koehler
+    Data: Agosto/2026
+    Descrição: Verifica se um número inteiro positivo é primo.
+"""
+n = int(input('Digite um numero inteiro positivo: '))
 
-n = int(input('Digite um número de 1 a 10: '))
-if n > 1 and n < 10:
-    while contador <= 10:
-        print(f'{n} vezes {contador} = {n * contador}')
-        contador += 1
+divisor = 1
+quantidadeDivisores = 0
+
+if n > 0:
+    while divisor <= n:
+            if n % divisor == 0:
+                quantidadeDivisores += 1
+            divisor += 1
+
+    if quantidadeDivisores == 2:
+        print(f'O número {n} é primo')
+    else:
+        print(f'O número {n} não é primo')
+
 else:
-    print('Número inválido')
+    
+        print(f'O seu número {n} é invalido')
 ```
 Exercício 8 - Giovanni
 ---
@@ -279,15 +326,26 @@ else:
 Exercício 9 - Eduardo
 ---
 ```python
-contador = 1
+"""
+    Autor: Eduardo Koehler Oliveira
+    Data: Agosto/2026
+    Descrição: Calcula o fatorial de um número inteiro positivo.
+"""
 
-n = int(input('Digite um número de 1 a 10: '))
-if n > 1 and n < 10:
-    while contador <= 10:
-        print(f'{n} vezes {contador} = {n * contador}')
-        contador += 1
+numero = int(input('Digite um numero inteiro positivo: '))
+
+contador = 1
+fatorial = 1
+
+if numero >= 0:
+    while contador <= numero:
+            fatorial = fatorial * contador
+            contador += 1
+
+    print(f'Fatorial = {fatorial}')
 else:
-    print('Número inválido')
+    print('Numero invalido.')
+  
 ```
 Exercício 9 - Giovanni
 ---
@@ -308,15 +366,27 @@ else:
 Exercício 10 - Eduardo
 ---
 ```python
-contador = 1
+"""
+    Autor: Eduardo Kohler Oliveira
+    Data: Agosto/2026
+    Descrição: Simula um sistema simples de senha com até 3 tentativas.
+"""
+senhaCorreta = 1234
+tentativas = 1
+limiteTentativas = 3
 
-n = int(input('Digite um número de 1 a 10: '))
-if n > 1 and n < 10:
-    while contador <= 10:
-        print(f'{n} vezes {contador} = {n * contador}')
-        contador += 1
+senha = int(input('Digite a senha: '))
+
+while senha != senhaCorreta and tentativas < limiteTentativas:
+    print('Senha incorreta. Tente novamente. ')
+    senha = int(input('Digite a senha: '))
+    tentativas += 1
+
+if senha == senhaCorreta:
+    print('Acesso liberado.')
+
 else:
-    print('Número inválido')
+    print('Acesso bloqueado.')
 ```
 Exercício 10 - Giovanni
 ---
