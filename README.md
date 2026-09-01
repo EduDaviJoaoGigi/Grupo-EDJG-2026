@@ -1,10 +1,6 @@
 
 <div align="center">
   
-# Atividades
-  
-
-  
 #  Integrantes do Grupo
 
 |  - <a href="https://github.com/davidessousamelo-rgb">Davi de Sousa </a>| <br>
