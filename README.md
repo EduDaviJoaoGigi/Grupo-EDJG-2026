@@ -2,13 +2,9 @@
   
 #  Grupo EDJG
   
-#  Integrantes do Grupo
-<table>
-<tr>|  - <a href="https://github.com/davidessousamelo-rgb">Davi de Sousa </a>| <br></tr>
-|  - <a href="https://github.com/Koehler2011">Eduardo Koehler </a> | <br>
-|  - <a href="https://github.com/GiovanniRovesta">Giovanni Rovesta </a> | <br>
-|  - <a href="https://github.com/monteiro-christo-tech">João Victor Monteiro </a> | <br>
-</table>
-
----
-
+| Integrantes do Grupo |
+| :--- |
+| - [Davi de Sousa](https://github.com/davidessousamelo-rgb) |
+| - [Eduardo Koehler](https://github.com/Koehler2011) |
+| - [Giovanni Rovesta](https://github.com/GiovanniRovesta) |
+| - [João Victor Monteiro](https://github.com/monteiro-christo-tech) |
