@@ -1,5 +1,6 @@
 <div align="center">
-# Grupo EDJG
+  
+#  Grupo EDJG
   
 #  Integrantes do Grupo
 <table>
