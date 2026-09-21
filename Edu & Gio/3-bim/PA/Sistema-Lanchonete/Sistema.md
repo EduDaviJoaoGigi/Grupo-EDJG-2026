@@ -171,8 +171,10 @@ def main():
 
 main()
 ```
+---
 ## Versão Final
 ---
+
 ```python
 import json
 import os
