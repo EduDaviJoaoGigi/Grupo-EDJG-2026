@@ -1,6 +1,6 @@
 ## Primeira versão do Sistema de Lanchonete
 ---
-´´´python
+```python
 import json
 import os
 
@@ -170,4 +170,4 @@ def main():
 
 
 main()
-´´´
+```
