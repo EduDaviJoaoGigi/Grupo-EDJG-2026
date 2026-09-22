@@ -733,8 +733,7 @@ def show_menu():
     print("5 - Alterar preço do produto")
     print("6 - Remover produto")
     print("7 - Relatório de vendas")
-    print("8 - Pesquisar produto por nome")
-    print("9 - Sair")
+    print("8 - Sair")
 
 
 def change_price():
@@ -791,20 +790,6 @@ def sales_report():
     print(f"Produtos vendidos: {produtos_vendidos}")
     print(f"Faturamento total: R$ {total_faturado:.2f}")
 
-def search():
-    if len(products) == 0:
-        print("Nenhum produto registrado.")
-        return
-
-    busca = input("Digite um produto que você queira procurar: ")
-    for product in products:
-        if product["name"].lower == busca.lower:
-            print(f"Há um produto registrado com o nome: {busca}")
-            return
-        
-    print(f"Não há nenhum produto resistrado com o nome: {busca}")
-
-
 def main():
     load_data()
 
@@ -827,8 +812,6 @@ def main():
         elif option == "7":
             sales_report()
         elif option == "8":
-            search()
-        elif option == "9":
             save_data()
             print("Sistema encerrado.")
             break
