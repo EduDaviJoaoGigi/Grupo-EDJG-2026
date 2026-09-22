@@ -1229,10 +1229,6 @@ def show_menu():
     print("12 - Criar backup do JSON")
     print("13 - Sair")
 
-
-# --- Funções mantidas idênticas ao PRIMEIRO código ---
-
-
 def change_price():
     if len(products) == 0:
         print("Nenhum produto cadastrado.")
@@ -1302,10 +1298,6 @@ def search():
             return
 
     print(f"Não há nenhum produto registrado com o nome: {busca}")
-
-
-# --- Funções adicionais do SEGUNDO código ---
-
 
 def most_sold_product():
     if len(orders) == 0:
