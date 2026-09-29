@@ -34,7 +34,7 @@
 </p>
 
 <hr/>
-
+<div align="center">
 <table>
   <tr>
     <th colspan="2" align="center"><h2> INFORMAÇÕES </h2></th>
@@ -57,3 +57,4 @@
     </td>
   </tr>
 </table>
+</div>
