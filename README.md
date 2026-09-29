@@ -29,7 +29,7 @@
   </a>
 
   <!-- VS Code -->
-  <a href="https://code.visualstudio.com/">
+  <a href="https://vscode.dev/?vscode-lang=pt-br">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   </a>
 </p>
