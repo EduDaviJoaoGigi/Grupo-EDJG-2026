@@ -33,7 +33,9 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   </a>
 </p>
----
+
+<hr/>
+
 <table>
   <tr>
     <th colspan="2" align="center"><h2> INFORMAÇÕES </h2></th>
