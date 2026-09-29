@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- INFONET -->
-  <a href="https://github.com/ACDK-ETECVAV">
+  <a href="https://github.com/EduDaviJoaoGigi">
     <img src="https://img.shields.io/badge/🎓%20Curso-INFONET-3B82F6?style=for-the-badge" alt="Curso INFONET">
   </a>
 
