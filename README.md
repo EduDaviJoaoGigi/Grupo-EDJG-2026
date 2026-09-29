@@ -40,11 +40,11 @@
     <th colspan="2" align="center"><h2> INFORMAÇÕES </h2></th>
   </tr>
   <tr>
-    <td><strong>INTEGRANTES</strong></td>
+    <td><strong>INTEGRANTES 👨‍🎓 </strong></td>
     <td><a href="https://github.com/davidessousamelo-rgb">Davi de Sousa</a> • <a href="https://github.com/Koehler2011">Eduardo Koehler</a> • <a href="https://github.com/GiovanniRovesta">Giovanni Rovesta</a> • <a href="https://github.com/monteiro-christo-tech">João Victor Monteiro</a></td>
   </tr>
   <tr>
-    <td><strong>Tecnologias / Habilidades</strong></td>
+    <td><strong>TECNOLOGIAS / HABILIDADES </strong></td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -57,7 +57,7 @@
     </td>
     </tr>
   <tr>
-    <td><b>Curso</b></td>
+    <td><b>CURSO 💻 </b></td>
     <td>
       Informática para Internet - AMS 1°D¹
     </td>
