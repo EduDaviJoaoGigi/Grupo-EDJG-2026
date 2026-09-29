@@ -55,6 +55,10 @@
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
       <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
     </td>
+    <td><b>Curso</b>b></td>
+    <td>
+      Informática para Internet - AMS 1°D¹
+    </td>
   </tr>
 </table>
 </div>
